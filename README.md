@@ -1,10 +1,9 @@
 This project probably exists somewhere else and definitly is not production code.  
 Seriously ****DONT RUN THIS ON A WEB FACING SERVER****
 
-The idea is why cant I have a easy way to run msfvenom without having to remember the exact syntax
+The idea spawned from, why cant I have a easy way to run msfvenom without having to remember the exact syntax of the command
 
 Anyway do whatever you want with the code, but I am not responsible for doing something stupid.
-
 
 PRE REQS
 1. LAMP Server (Apache/nginx & php)
